@@ -1,10 +1,3 @@
-'''
-* @Author: Mohammad Fatha.
-* @Date: 2021-09-17 00:40  
-* @Last Modified by: Mohammad Fatha
-* @Last Modified time: 2021-09-17 00:42
-* @Title: To print the prime factors of the given number
-'''
 import math as m
 
 Num = int(input("Enter the number to find it's prime factors : "))
