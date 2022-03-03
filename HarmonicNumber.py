@@ -1,10 +1,4 @@
-'''
-* @Author: Mohammad Fatha.
-* @Date: 2021-09-17 00:12  
-* @Last Modified by: Mohammad Fatha
-* @Last Modified time: 2021-09-17 00:15
-* @Title: To print the Nth Harmonic number of given range
-'''
+
 harmonic_range = int(input("Enter the range to calculate Nth Harmonic number "))
 harmonic_number = 0
 
