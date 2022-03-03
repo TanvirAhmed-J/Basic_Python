@@ -1,10 +1,3 @@
-'''
-* @Author: Mohammad Fatha.
-* @Date: 2021-09-17 00:12  
-* @Last Modified by: Mohammad Fatha
-* @Last Modified time: 2021-09-17 00:15
-* @Title: To print the power of two till the entered range and should be 0 <= N < 31
-'''
 
 power_of_two = int(input("Enter the number to get power of two "))
 
