@@ -1,10 +1,3 @@
-'''
-* @Author: Mohammad Fatha.
-* @Date: 2021-09-16 23:48  
-* @Last Modified by: Mohammad Fatha
-* @Last Modified time: 2021-09-16 23:50
-* @Title: Flip Coin and print percentage of Heads and Tails
-'''
 
 import random
 
