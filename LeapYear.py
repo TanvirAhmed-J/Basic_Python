@@ -1,4 +1,3 @@
-
 import re
 
 Year = int(input("Enter the year to check it is leap year or not : "))
